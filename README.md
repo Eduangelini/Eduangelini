@@ -1,6 +1,6 @@
   <h1>
   🌐 < Olá Mundo > Me chamo Eduardo... Prazer :wave:</a>
-  </h1><br>
+  </h1><br><br>
   
   <div>
   <a href="https://www.linkedin.com/in/eduangelini/" target="_blank">
@@ -8,9 +8,9 @@
   <a href = "https://www.instagram.com/eduardoangelinicarvalho_/">
     <img img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
- <br>
+ <br><br>
   
-  <h3>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP.</a></h3><br>
+  <h3>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP.</a></h3><br><br>
   
   <div>
   <h2> 📚 Me aprofundando em: </h2>
