@@ -1,6 +1,6 @@
   <h1>
   🌐 < Olá Mundo > Me chamo Eduardo... Prazer :wave:</a>
-  </h1><br><br>
+  </h1><br>
   
   <div>
   <a href="https://www.linkedin.com/in/eduangelini/" target="_blank">
@@ -8,16 +8,16 @@
   <a href = "https://www.instagram.com/eduardoangelinicarvalho_/">
     <img img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
- <br><br>
+ <br>
   
-  <h3>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP.</a></h3><br><br>
+  <h3>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP.</a></h3><br>
   
   <div>
   <h2> 📚 Me aprofundando em: </h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </div><br><br>
+  </div><br>
   
   <div>
   <h2> 💻 Para estudar em um futuro próximo: </h2>
@@ -25,7 +25,7 @@
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  </div><br><br>
+  </div><br>
   
   <div>
   <h2> 🔧 Skills e ferramentas: </h2>
@@ -39,7 +39,6 @@
    <img align="center" alt="github" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
    <img align="center" alt="github" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div><br><br>
- <br>
 
 <div>  
   <div>
