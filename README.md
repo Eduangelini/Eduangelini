@@ -17,7 +17,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </div><br>
+  </div><br><br>
   
   <div>
   <h2> 💻 Para estudar em um futuro próximo: </h2>
@@ -25,7 +25,7 @@
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  </div><br>
+  </div><br><br>
   
   <div>
   <h2> 🔧 Skills e ferramentas: </h2>
@@ -38,7 +38,7 @@
    <img align="center" alt="github" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align="center" alt="github" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
    <img align="center" alt="github" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  </div><br>
+  </div><br><br>
  <br>
 
 <div>  
