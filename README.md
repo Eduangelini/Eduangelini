@@ -5,8 +5,8 @@
   <div>
   <a href="https://www.linkedin.com/in/eduangelini/" target="_blank">
     <img img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://www.instagram.com/eduardoangelinicarvalho_/">
-    <img img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://vercel.com/eduangelini">
+    <img img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
  </div>
  <br>
   
