@@ -1,4 +1,10 @@
-### Hello, I'm Eduardo Angelini Carvalho
+# Hi There!👋 <br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduangelini/)](https://www.linkedin.com/in/eduangelini)
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-6633cc?style=flat-square&logo=Vercel&logoColor=white&link=https://www.Vercel.com/eduangelini/)](https://www.Vercel.com/eduangelini)
+[![Gmail Badge](https://img.shields.io/badge/-Eduangelinicarvalho@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Eduangelinicarvalho@gmail.com)](mailto:Eduangelinicarvalho@gmail.com)
+
+## My name is Eduardo Angelini Carvalho
 
 #### Current Stack
 
@@ -8,12 +14,8 @@
 - 🧩 Layout Design: `Figma`
 - 🗃️ Version Code Control: `Git`, `GitHub`
 - 🔧 Tools: `VS Code`, `Markdown`
-
-#### Contacts
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduangelini/)](https://www.linkedin.com/in/eduangelini) <br>
-[![Vercel Badge](https://img.shields.io/badge/-Vercel-6633cc?style=flat-square&logo=Vercel&logoColor=white&link=https://www.Vercel.com/eduangelini/)](https://www.Vercel.com/eduangelini) <br>
-[![Gmail Badge](https://img.shields.io/badge/-Eduangelinicarvalho@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Eduangelinicarvalho@gmail.com)](mailto:Eduangelinicarvalho@gmail.com) <br><br>
+  
+<br>
 
 <div align="left">
   
