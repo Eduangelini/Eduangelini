@@ -8,9 +8,9 @@
 
 #### Current Stack
 
-- 🧑‍💻 main language: `javaScript`
+- 🧑‍💻 Main Language: `javaScript`
 - 🚪 Backend: `Java`
-- 🖥 Frontend: `Reactjs`, `HTML`, `CSS`, `javaScript`
+- 🖥 Frontend: `Reactjs`, `HTML`, `CSS` <`SASS/Scss`, `TailwindCSS`>
 - 🧩 Layout Design: `Figma`
 - 🗃️ Version Code Control: `Git`, `GitHub`
 - 🔧 Tools: `VS Code`, `Markdown`
